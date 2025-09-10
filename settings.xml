@@ -1,0 +1,20 @@
+<settings>
+    <setting name="*editor_main.mapResourceOrganizationalDirectory" value='[&quot;none&quot;]'></setting>
+    <setting name="*mtasa-bootloader-main.showGamemodes" value='[&quot;true&quot;]'></setting>
+    <setting name="@mtasa-bootloader-main.resources" value='[&quot;welcome,acpanel,spawnmanager,ajax,helpmanager,advancedcompass,webbrowser,resourcebrowser,dynamic_object_shader,play,modloader,hssystem,hud_gtav,mapcycler,resourcemgr,wide_corona_fix_shader,notifications,resourcestarter,discord_integration,webadmin,superman,sfxbrowser,runcode,webmap,voice,mtanative,dorogi,voice_local,automatic_compiler,voicegui,kenya_rp_logo,playerblips,easytext,msgbox,freeroam,shaderpednormal,playercolors,resourcemanager,login_panel,gradmin,gtavradar,mapfixes,gps,gtav_lights,admin,sfx_wepons,discord_bridge,autopeds,dero_menu_final,mapmanager&quot;]'></setting>
+    <setting name="*hssystem.loadOnStartResource" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.data" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.dimension" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.position" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.interior" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.skin" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.team" value='[&quot;true&quot;]'></setting>
+    <setting name="*hssystem.saveTime" value='[&quot;100000&quot;]'></setting>
+    <setting name="*freeroam.welcometextonstart" value='[&quot;false&quot;]'></setting>
+    <setting name="*freeroam.spawnmaponstart" value='[&quot;false&quot;]'></setting>
+    <setting name="ip2c.ip2cUpdateTime" value="[1757512668]"></setting>
+    <setting name="*play.playerRespawnTime" value="[3000]"></setting>
+    <setting name="*deathpickups.only_current" value="[false]"></setting>
+    <setting name="*freeroam.spawnmapondeath" value='[&quot;false&quot;]'></setting>
+    <setting name="*freeroam.kill" value='[&quot;true&quot;]'></setting>
+</settings>
